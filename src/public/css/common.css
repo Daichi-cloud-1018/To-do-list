@@ -1,0 +1,18 @@
+.header {
+    background-color: #000;
+    padding: 20px;
+}
+
+.header__inner {
+    display:flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    font-size: 28px;
+    color: #fff;
+}
+
+.header__category {
+
+}
